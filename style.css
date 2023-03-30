@@ -1,0 +1,10 @@
+h1, p {
+  font-family: Lato;
+}
+button{
+  border: 1;
+  border-color: blue;
+  border-radius: 25%;
+  padding: 1rem 2rem;
+  
+}
